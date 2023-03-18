@@ -1432,8 +1432,10 @@ footer {
 		margin-top: 11px;
 	}
 
-	.favorite-num {
-		padding-left: 0;
+	.favorite-num-left {
+		font-size: 12px;
+		line-height: 22px;
+		color: #93a5b1;
 	}
 
 	.tweet-left {
